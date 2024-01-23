@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\reserva-stadium-user-backend.props" />
+</Project>

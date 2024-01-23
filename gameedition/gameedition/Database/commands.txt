@@ -1,0 +1,1 @@
+Scaffold-DbContext "Host =javidmusayev.dev; Port = 9753; Username = reserva; Password = 03nS6PWnTqYU; Database = test_reserva" Npgsql.EntityFrameworkCore.PostgreSQL -OutputDir Models -Tables "company", "company_branch","stadium","stadium_fullied","stadium_price", "stadium_type","time_type","static","reserve", "company_employee"  -ContextDir Context -Context ReservaDbContext
